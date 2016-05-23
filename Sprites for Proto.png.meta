@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: d4d4e7c0a2d15de40aef5191fbea10ad
+timeCreated: 1464019308
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites for Proto_0
+    21300002: Sprites for Proto_1
+    21300004: Sprites for Proto_2
+    21300006: Sprites for Proto_3
+    21300008: Sprites for Proto_4
+    21300010: Sprites for Proto_5
+    21300012: Sprites for Proto_6
+    21300014: Sprites for Proto_7
+    21300016: Sprites for Proto_8
+    21300018: Sprites for Proto_9
+    21300020: Sprites for Proto_10
+    21300022: Sprites for Proto_11
+    21300024: Sprites for Proto_12
+    21300026: Sprites for Proto_13
+    21300028: Sprites for Proto_14
+    21300030: Sprites for Proto_15
+    21300032: Sprites for Proto_16
+    21300034: Sprites for Proto_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites for Proto_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1475
+        width: 225
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1030
+        width: 142
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.089447, y: 77.7966}
+        - {x: -17.089447, y: -77.2034}
+        - {x: 17.910553, y: -77.2034}
+        - {x: 17.910553, y: 77.7966}
+    - name: Sprites for Proto_2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1529
+        width: 850
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_3
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1438
+        width: 83
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_4
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1225
+        width: 878
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.60516, y: 55.1149}
+        - {x: 89.60516, y: 55.1149}
+        - {x: 71.60516, y: 47.1149}
+        - {x: -43.394836, y: -2.8851013}
+        - {x: -98.39484, y: -26.885101}
+        - {x: -105.39484, y: -29.885101}
+        - {x: -105.39484, y: -36.8851}
+        - {x: -99.39484, y: -52.8851}
+        - {x: -97.39484, y: -54.8851}
+        - {x: 16.605164, y: -54.8851}
+        - {x: 16.605164, y: -53.8851}
+        - {x: 106.60516, y: 31.114899}
+        - {x: 106.60516, y: 42.1149}
+    - name: Sprites for Proto_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1296
+        width: 396
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_6
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1300
+        width: 21
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1404
+        width: 441
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1084
+        width: 287
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 734
+        width: 1175
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141.07304, y: 62.228836}
+        - {x: -141.07304, y: -61.771164}
+        - {x: 27.926956, y: -61.771164}
+        - {x: 127.926956, y: 40.228836}
+        - {x: 141.92696, y: 58.228836}
+        - {x: 141.92696, y: 62.228836}
+      - - {x: 139.92696, y: 51.228836}
+        - {x: 48.926956, y: -42.771164}
+        - {x: 35.926956, y: -59.771164}
+        - {x: 35.926956, y: -61.771164}
+        - {x: 141.92696, y: -61.771164}
+        - {x: 141.92696, y: 51.228836}
+    - name: Sprites for Proto_10
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 734
+        width: 1116
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.923462, y: 62.228836}
+        - {x: -53.923462, y: 32.228836}
+        - {x: -133.92346, y: -57.771164}
+        - {x: -133.92346, y: -61.771164}
+        - {x: 135.07654, y: -61.771164}
+        - {x: 135.07654, y: 62.228836}
+      - - {x: -133.92346, y: 62.228836}
+        - {x: -133.92346, y: -49.771164}
+        - {x: -130.92346, y: -49.771164}
+        - {x: -27.923462, y: 58.228836}
+        - {x: -27.923462, y: 62.228836}
+    - name: Sprites for Proto_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 755
+        width: 187
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.473154, y: 32.770813}
+        - {x: -22.473154, y: -32.229187}
+        - {x: 23.526846, y: -32.229187}
+        - {x: 23.526846, y: 32.770813}
+    - name: Sprites for Proto_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 893
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 893
+        width: 179
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5219269, y: 20.903748}
+        - {x: -21.521927, y: -8.096252}
+        - {x: -21.521927, y: -20.096252}
+        - {x: 22.478073, y: -20.096252}
+        - {x: 22.478073, y: -15.096252}
+        - {x: 6.478073, y: 20.903748}
+      - - {x: 9.478073, y: 20.903748}
+        - {x: 9.478073, y: 11.903748}
+        - {x: 17.478073, y: 11.903748}
+        - {x: 22.478073, y: 13.903748}
+        - {x: 22.478073, y: 20.903748}
+    - name: Sprites for Proto_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 755
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 751
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites for Proto_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4265
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -398, y: 64.5}
+        - {x: -512, y: 17.5}
+        - {x: -512, y: -64.5}
+        - {x: 512, y: -64.5}
+        - {x: 512, y: -34.5}
+        - {x: 154, y: 64.5}
+      - - {x: 91, y: 64.5}
+        - {x: 64, y: 55.5}
+        - {x: 64, y: 51.5}
+        - {x: 66, y: 49.5}
+        - {x: 502, y: 49.5}
+        - {x: 502, y: 59.5}
+        - {x: 500, y: 64.5}
+    - name: Sprites for Proto_17
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 481
+        width: 1812
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
